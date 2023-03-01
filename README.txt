@@ -6,7 +6,7 @@ Joomla! CMS™
 	* Joomla! Official site: https://www.joomla.org
 	* Joomla! 4.2 version history - https://docs.joomla.org/Special:MyLanguage/Joomla_4.2_version_history
 	* Detailed changes in the Changelog: https://github.com/joomla/joomla-cms/commits/4.2-dev
-	* Visit our site: https://poonehmedia.com
+	* Visit our site: https://poonehmedia.com for seo
 
 2- What is Joomla?
 	* Joomla! is a Content Management System (CMS) which enables you to build websites and powerful online applications.
